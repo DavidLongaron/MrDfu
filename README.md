@@ -11,8 +11,8 @@ Passionate and self sufficient learner with international experience both in Eur
 <br/>
 <br/>
 - 📫 How to reach me: dlongaron@hotmail.com
-- <br/>
-- 💬 &nbsp; Ask me about anything, I am happy to help
+ <br/>
+- 💬 &nbsp; Ask me about anything, I am happy to help!
 
 
 ### So, let's meet!
