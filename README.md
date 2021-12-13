@@ -4,8 +4,8 @@
 ### A little about me...
 I'm a **Software Engineer** . I'm a *Tech Enthusiast* passionate about learning and working with new technologies.<br/>
 
-- 🔭 &nbsp; I’m currently working with Nodejs, Express, React, Javascript, Redux.
-
+- 🔭 &nbsp; I’m currently working with: Nodejs, Express, React, Javascript, Redux.
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width=80/>
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
 
