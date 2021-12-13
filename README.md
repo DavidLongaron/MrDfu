@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...
-I'm a **Software Engineer** . Full stack developer currently living in Barcelona,Spain.
+I'm a  **Full stack developer** currently living in Barcelona,Spain.<br />
 Passionate and self sufficient learner with international experience both in Europe and Asia. I enjoy working with motivated people that can help me push my limits. Always looking to expand my software skills with new technologies and methodologies.
 
 - 🔭 &nbsp; I’m currently working with: Nodejs, Express, React, Javascript, Redux, Mongoose, PostgreSQL, TypeScript.<br/>
